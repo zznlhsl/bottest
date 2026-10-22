@@ -1,0 +1,8 @@
+# live tokens / cookies / accounts -- never leave this machine
+secrets/
+# evidence dumps from pod.js runs (raw conversations, ledger rows)
+evidence/
+# runtime junk
+*.log
+*.tmp
+node_modules/
